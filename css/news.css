@@ -1,0 +1,227 @@
+header{
+    margin-left: 63px;
+}
+.logo{
+    margin-top: 54px;
+    display: inline-block;
+    margin-right: 60px;
+}
+li{
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 66px;
+    margin-right: 81px;
+}
+.active{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 66px;
+    margin-right: 87px;
+}
+.container{
+    width: 1052px;
+    margin: 0 auto;
+}
+.data{
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    display: inline-block;
+    margin-bottom: 18px;
+    margin-top: 44px;
+}
+.data1{
+    color: #84FF81;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 11px;
+    margin-right: 8px;
+}
+h3{
+    color: #8D81FF;
+    font-family: BPG Nino Mkhedruli;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 8px;
+    margin-bottom: 14px;
+}
+h4{
+    color: #4E6FAE;
+    font-family: BPG Square;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 13px;
+    line-height: normal;
+}
+.txt{
+    color: #4E6FAE;
+    font-family: BPG Nostalgia ;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin:30px;
+    margin-top: -7px;
+    vertical-align: top;
+    width: 778px;
+
+}
+.txt1{
+    color: #4E6FAE;
+    font-family: BPG Nostalgia ;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    vertical-align: top;
+    width: 778px;
+    margin-left: 30px;
+}
+.div1{
+    display: inline-block;
+    vertical-align: top;
+    width: 778px;
+    vertical-align: top;
+}
+.photo{
+    display: inline-block;
+    vertical-align: top;
+}
+.txt2{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 52px;
+    margin-top: 14px;
+    margin-bottom: 32px;
+    width: 1021px;
+    height: 148px;
+}
+.fb{
+    display: inline-block;
+    margin-top: 143px;
+}
+.yt{
+    display: inline-block;
+    margin-top: 145px;
+}
+.icons{
+    width: 2px;
+    height: 48px;
+    background-color:#5012D5 ;
+    display: inline-block;
+    margin-left: 41px;
+    margin-right: 41px;
+}
+.banner{
+    margin-top: 97px;
+}
+.news{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    width: 150px;
+    height: 34px;    
+}
+.div2{
+    display: inline-block;
+    width: 2px;
+    height: 24px;
+    background-color: #5012D5;
+    margin-top: 125px;
+    margin-left: 18px;
+    margin-right: 17px;
+}
+.details{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    width: 484px;
+    height: 34px;
+}
+.box{
+    background-color: #E7E7E7;
+    height: 192px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.box1{
+    background-color: #E7E7E7;
+    height: 192px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 48px;
+    
+}
+h2{
+    color: #3F4145;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 307px;
+    margin-left: 23px;
+    margin-top: 21px;
+}
+.scoup{
+    width: 77px;
+    height: 77px; 
+    margin-left: 36px;
+    margin-top: 29px;
+    display: inline-block;
+    vertical-align: top;
+}
+.in{
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 335px;
+    height: 95px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 36px;
+}
+.fb1{
+    display: inline-block;
+    margin-top: 91px;
+}
+.yt1{
+    display: inline-block;
+    margin-top: 125px;
+}

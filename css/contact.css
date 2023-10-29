@@ -1,0 +1,112 @@
+.container{
+    width: 1660px;
+    margin: 0 auto;
+}
+nav{
+    margin-left: 92px;
+    margin-top: 41px;
+}
+.logo{
+    margin-top: 54px;
+    display: inline-block;
+    margin-right: 60px;
+}
+li{
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 66px;
+    margin-right: 81px;
+}
+.active{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 66px;
+    margin-right: 87px;
+
+}
+.box2{
+    margin-top: 31px;
+    width: 1660px;
+    height: 735px;
+    background-color: #E7E7E7;
+    margin-bottom: 106px;
+    padding-top:93px ;    
+    box-sizing: border-box;
+}
+.div1{
+    margin-left: 163px;
+    display: inline-block;
+    vertical-align: middle;
+}
+h4{
+    color: #4E6FAE;
+    font-family: Helvetica Neue;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 474px;
+    height: 34px;
+    margin-bottom: 27px;
+} 
+.addres{
+    color: #7E8898;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 307px;
+    margin-bottom: 23px;
+}
+.tel{
+    color: #7E8898;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 307px;
+    margin-bottom: 11px;
+}
+.mail{
+    color: #7E8898;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 307px;
+}
+.div2{
+    display: inline-block;
+    vertical-align: middle;
+}   
+footer{
+    margin-left: 96px;
+}
+.fb{
+    display: inline-block;
+    margin-top: 143px;
+}
+.yt{
+    display: inline-block;
+    margin-top: 145px;
+}
+.icons{
+    width: 2px;
+    height: 48px;
+    background-color:#5012D5 ;
+    display: inline-block;
+    margin-left: 41px;
+    margin-right: 41px;
+}
